@@ -1,7 +1,0 @@
-{
-  "name": "MCP-helloworld",
-  "entry": "main.py",
-  "language": "python",
-  "transport": "stdio",
-  "description": "一个返回 Hello World 的 MCP 工具"
-}
